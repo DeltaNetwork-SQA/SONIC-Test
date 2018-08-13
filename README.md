@@ -1,2 +1,2 @@
 # SONIC-Test
-SONIC Device Automation
+SONIC Device Automation Project
